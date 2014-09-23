@@ -13,6 +13,8 @@
 		CE4734AE19CB9EB700A32888 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE4734AD19CB9EB700A32888 /* Images.xcassets */; };
 		CE4734B119CB9EB700A32888 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CE4734AF19CB9EB700A32888 /* LaunchScreen.xib */; };
 		CE4734BD19CB9EB700A32888 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4734BC19CB9EB700A32888 /* PostcardTests.swift */; };
+		CE4734C719CBA86900A32888 /* Emily & Sean's Wedding-64.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE4734C619CBA86900A32888 /* Emily & Sean's Wedding-64.jpg */; };
+		CE4734C919CBACC000A32888 /* Emily & Sean's Wedding-73.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE4734C819CBACC000A32888 /* Emily & Sean's Wedding-73.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		CE4734B619CB9EB700A32888 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE4734BB19CB9EB700A32888 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE4734BC19CB9EB700A32888 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		CE4734C619CBA86900A32888 /* Emily & Sean's Wedding-64.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Emily & Sean's Wedding-64.jpg"; sourceTree = "<group>"; };
+		CE4734C819CBACC000A32888 /* Emily & Sean's Wedding-73.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Emily & Sean's Wedding-73.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		CE4734A419CB9EB700A32888 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CE4734C819CBACC000A32888 /* Emily & Sean's Wedding-73.jpg */,
+				CE4734C619CBA86900A32888 /* Emily & Sean's Wedding-64.jpg */,
 				CE4734A519CB9EB700A32888 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,8 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE4734C719CBA86900A32888 /* Emily & Sean's Wedding-64.jpg in Resources */,
 				CE4734AC19CB9EB700A32888 /* Main.storyboard in Resources */,
 				CE4734B119CB9EB700A32888 /* LaunchScreen.xib in Resources */,
+				CE4734C919CBACC000A32888 /* Emily & Sean's Wedding-73.jpg in Resources */,
 				CE4734AE19CB9EB700A32888 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
